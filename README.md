@@ -2,8 +2,9 @@ Mad Twitter jQuery Plugin
 ===========
 
 <div id="how-to-use">
-<h1>Mad Twitter</h1>
 <p>Mad twitter is a highly user friendly button, that produces different animations on hover effect. Six different effects makes the twitter angry and it goes wild, which is the most interesting feature of mad twitter button. </p>
+
+<strong><a href="http://topgravity.com/mad-twitter-jquery-plugin/">Demo</a></strong>
 
 <h2>How to use</h2>
 <p>Mad twitter is an easy to use jquery plugin. A css file must be included to make it work properly.
