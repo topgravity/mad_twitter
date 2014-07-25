@@ -1,0 +1,54 @@
+#all-keeper{
+	width: 600px;
+	height: 150px;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+#all-keeper li{
+	position: relative;
+	float: left;
+	list-style-type: none;
+	width: 200px;
+}
+body{
+	font-family: "Open Sans";
+}
+li{
+	list-style-type: none;
+}
+
+#mad_twitter_1,#mad_twitter_2,#mad_twitter_3{
+	margin-bottom: 15px;
+}
+
+#how-to-use{
+	width:45%;
+	min-width: 200px;
+	min-height: 200px;
+	background-color: #fff;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top:30px;
+	border-radius: 20px;
+	padding: 10px;
+-webkit-box-shadow: 1px 0px 5px 0px #000;
+-moz-box-shadow:    1px 0px 5px 0px #000;
+box-shadow:         1px 0px 5px 0px #000;
+}
+
+#code-cantainer{
+	background-color: #800080;
+	color:#fff;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+a{
+	text-decoration: none;
+}
